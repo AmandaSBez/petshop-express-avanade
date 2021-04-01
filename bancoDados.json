@@ -1,0 +1,13 @@
+{
+    "pets":
+    [
+        {"nome":"Orion","tipo":"cachorro","idade":5,"raca":"Pastor Australiano","peso":10,"tutor":"Tom","contato":"(81) 98746-0809","vacinado":true,"servicos":[{"tipoServ":"banho","data":"2-22-2021"},{"tipoServ":"tosa","data":"1-30-2021"},{"tipoServ":"Banho","data":"29-03-2021"},{"tipoServ":"tosar","data":"29-03-2021"}]},
+        {"nome":"Scooby-Doo","tipo":"cachorro","idade":3,"raca":"Dogue Alemão","peso":50,"tutor":"Salsicha","contato":"(11) 95670-1029","vacinado":true,"servicos":[{"tipoServ":"banho","data":"2-20-2021"},{"tipoServ":"Banho","data":"29-03-2021"}]},
+        {"nome":"Salem","tipo":"gato","idade":10,"raca":"Vira-Lata","peso":2.5,"tutor":"Sabrina","contato":"(81) 97597-5257","vacinado":true,"servicos":[{"tipoServ":"banho","data":"3-20-2021"},{"tipoServ":"corte de unhas","data":"1-20-2021"},{"tipoServ":"corte de unhas","data":"26-03-2021"}]},
+        {"nome":"Perna-longa","tipo":"coelho","idade":2,"raca":"Mini Holandês","peso":2,"tutor":"Maria","contato":"(81) 99685-8709","vacinado":true,"servicos":[]},
+        {"nome":"Miau","tipo":"gato","idade":1,"raca":"Siamês","peso":2,"tutor":"Magali","contato":"(81) 9374-7109","vacinado":true,"servicos":[{"tipoServ":"corte de unhas","data":"29-03-2021"},{"tipoServ":"corte de unhas","data":"29-03-2021"}]},
+        {"nome":"Bolinha","tipo":"gato","idade":1,"raca":"vira-lata","peso":2,"tutor":"Tom","contato":"(81) 9374-7109","vacinado":true,"servicos":[]},
+        {"nome":"Bidu","tipo":"cachorro","idade":10,"raca":"schnauzer","peso":5,"tutor":"Monica","contato":"(81) 8888-8989","vacinado":true,"servicos":[]}
+        
+    ]
+}
